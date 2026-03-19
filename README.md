@@ -1,17 +1,11 @@
-# 🌱 AgriPredict India: Smart Crop Yield Dashboard
-
-![Status](https://img.shields.io/badge/Status-Active-success)
-![Version](https://img.shields.io/badge/Version-1.0.0-blue)
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-KNN-orange)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white)
-
-> An advanced, data-driven agricultural dashboard designed to empower Indian farmers with Machine Learning-based crop yield predictions, live market prices, and expert pest advisories.
+   # 🌱 AgriPredict India: Smart Crop Yield Dashboard
 
 <p align="center">
-  <img src="https://sageuniversity.edu.in/assets/images/blog/role-of-artificial-intelligence-in-agriculture.jpg" alt="AgriPredict Main Dashboard Preview" width="800">
+  <img src="https://sageuniversity.edu.in/assets/images/blog/role-of-artificial-intelligence-in-agriculture.jpg" alt="AgriPredict Main Dashboard Preview" width="1000">
 </p>
 
 ---
+> An advanced, data-driven agricultural dashboard designed to empower Indian farmers with Machine Learning-based crop yield predictions, live market prices, and expert pest advisories.
 
 ## 📖 About The Project
 
