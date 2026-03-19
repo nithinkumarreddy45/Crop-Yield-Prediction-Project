@@ -27,12 +27,14 @@ Beyond just prediction, the platform serves as a complete command center for far
 
 Here is a closer look at the platform's core modules:
 
+
 ### 1. The Yield Predictor
-![Yield Predictor Tool]([ADD_PREDICTOR_TAB_IMAGE_LINK_HERE])
+![Yield Predictor Tool]()
 *Interactive form calculating real-time yield estimates and smart recommendations.*
 
+
 ### 2. Market Prices Dashboard
-![Live Market Prices]([ADD_MARKET_TAB_IMAGE_LINK_HERE])
+![Live Market Prices]()
 *Tracking spot prices for crops like Wheat, Cotton, and Soybean across India.*
 
 ### 3. Pest Advisory System
